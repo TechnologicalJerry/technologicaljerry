@@ -1,4 +1,6 @@
 # Hi there, I'm TechnoJerry :wave:
-![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=technologicaljerry&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src"https://github-readme-stats.vercel.app/api?username=technologicaljerry&show_icons=true&theme=onedark"/>
+
+<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+
