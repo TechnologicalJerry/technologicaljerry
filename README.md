@@ -31,3 +31,5 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 <!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
+
+<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="400" alt="Rajat Verma's Dev Card"/></a>
