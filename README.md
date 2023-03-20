@@ -4,7 +4,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact"/>
 
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry=tokyonight"/>
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
