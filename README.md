@@ -1,8 +1,8 @@
 # :desktop_computer: Hi there :wave:, I'm TechnoJerry :computer:
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&show_icons=true&theme=onedark"/>
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&show_icons=true&theme=onedark"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact"/> -->
 
 <a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
 
