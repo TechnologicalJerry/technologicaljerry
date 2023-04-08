@@ -4,8 +4,6 @@
 
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
 
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false](https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-
 <img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=technologicaljerry&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 <a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
