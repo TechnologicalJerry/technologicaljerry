@@ -4,7 +4,13 @@
 
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 <img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=technologicaljerry&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
