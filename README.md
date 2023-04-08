@@ -1,5 +1,7 @@
 # :desktop_computer: Hi there :wave:, I'm TechnoJerry :computer:
 
+![](https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&show_icons=true&theme=onedark"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact"/> -->
