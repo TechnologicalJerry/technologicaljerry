@@ -1,5 +1,9 @@
 # :desktop_computer: Hi there :wave:, I'm TechnoJerry :computer:
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
+
 ![](https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false)
@@ -8,11 +12,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
 
 <a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
 
