@@ -1,6 +1,6 @@
 # :desktop_computer: Hi there :wave:, I'm TechnoJerry :computer:
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
 <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
 
