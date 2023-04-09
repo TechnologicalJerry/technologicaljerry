@@ -4,9 +4,9 @@
 
 <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
 
-![Snake animation](https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.svg) -->
 
-<img align="center" width="100%" src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img align="center" width="100%" src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <img align="left" width="48%" src="https://github-contributor-stats.vercel.app/api?username=technologicaljerry&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
