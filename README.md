@@ -6,7 +6,10 @@
 
 <img align="center" width="100%" src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
+<div width="30%">
+<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" alt="Rajat Verma's Dev Card"/></a>
+</div>
+
 
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
 
