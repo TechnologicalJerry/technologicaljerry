@@ -10,6 +10,8 @@
 
 <img src="https://raw.githubusercontent.com/technologicaljerry/technologicaljerry/blob/output/snake.svg" alt="Snake animation" />
 
+![snake gif](https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.gif)
+
 ###
 
 <img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=technologicaljerry&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
