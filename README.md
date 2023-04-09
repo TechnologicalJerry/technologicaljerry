@@ -2,7 +2,7 @@
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
-<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
+<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
 
 <!-- ![Snake animation](https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.svg) -->
 
