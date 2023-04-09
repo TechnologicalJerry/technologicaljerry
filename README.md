@@ -6,8 +6,8 @@
 
 <img align="center" width="100%" src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<div width="30%">
-<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" alt="Rajat Verma's Dev Card"/></a>
+<div align="left">
+<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
 </div>
 
 
