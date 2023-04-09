@@ -1,20 +1,18 @@
 # :desktop_computer: Hi there :wave:, I'm TechnoJerry :computer:
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
-<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
+<img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false"/>
 
-###
+<img align="center" width="100%" src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/technologicaljerry/technologicaljerry/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=technologicaljerry&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img align="left" width="48%" src="https://github-contributor-stats.vercel.app/api?username=technologicaljerry&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 <a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
+
+<div align="right">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
 # 💻 Tech Stack:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
