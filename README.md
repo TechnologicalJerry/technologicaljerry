@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/technologicaljerry/technologicaljerry/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ![snake gif](https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.gif)
 
