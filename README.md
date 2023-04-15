@@ -4,7 +4,7 @@
 
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/technologicaljerry/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 <img align="center" width="100%" src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
