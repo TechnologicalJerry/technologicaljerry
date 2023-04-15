@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&multiline=true&width=700&lines=%F0%9F%96%A5%EF%B8%8F+Hi+there+%F0%9F%91%8B%2C+I'm+TechnoJerry+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
-<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
 
 <img align="center" width="100%" src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
