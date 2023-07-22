@@ -8,7 +8,7 @@
 
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
 
-(https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.gif)
+<img align="right" alt="GIF" src="https://github.com/technologicaljerry/technologicaljerry/blob/output/github-contribution-grid-snake.gif">
 
 <div align="left">
 <a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
