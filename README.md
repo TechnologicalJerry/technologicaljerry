@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&multiline=true&width=700&lines=%F0%9F%96%A5%EF%B8%8F+Hi+there+%F0%9F%91%8B%2C+I'm+TechnoJerry+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<!-- <img align="left" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
+
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif">
 
