@@ -12,7 +12,7 @@
   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
-<img align="left" width="48%" src="https://github-contributor-stats.vercel.app/api?username=technologicaljerry&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact&theme=buefy&hide_border=true" />
 
