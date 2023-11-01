@@ -13,7 +13,6 @@
 </div>
 
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact&theme=buefy&hide_border=true" />
 
 <div align="right">
