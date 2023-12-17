@@ -6,7 +6,11 @@
 
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
 
-
+<div align="left">
+<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
+  
+ 
+</div>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&layout=compact&theme=buefy&hide_border=true" />
 
