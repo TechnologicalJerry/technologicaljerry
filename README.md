@@ -2,14 +2,6 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif"><br/><br/><br/><br/>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/technologicaljerry/technologicaljerry/output/snake.svg" alt="Snake animation" />
-
-###
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
@@ -45,7 +37,9 @@
 
 ## 🏆 GitHub Trophies
 
-<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=technologicaljerry&theme=nord&no-frame=false&no-bg=false&margin-w=4"/>
+<img align="center" width="47%" src="https://github-profile-trophy.vercel.app/?username=technologicaljerry&theme=nord&no-frame=false&no-bg=false&margin-w=4"/>
+
+<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="47%" alt="Rajat Verma's Dev Card"/></a>
 
 [![](https://visitcount.itsvg.in/api?id=technologicaljerry&icon=0&color=0)](https://visitcount.itsvg.in)
 
