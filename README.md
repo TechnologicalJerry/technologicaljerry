@@ -2,8 +2,8 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif">
 
-<div align="center"></div>
-<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="40%" alt="Rajat Verma's Dev Card"/></a>
+<div align="right"></div>
+<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="30%" alt="Rajat Verma's Dev Card"/></a>
 </div>
 
 # 📊 GitHub Stats:
