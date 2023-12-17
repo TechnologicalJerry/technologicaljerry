@@ -3,7 +3,7 @@
 <img align="left" alt="GIF" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif"><br/><br/><br/><br/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false)
 
