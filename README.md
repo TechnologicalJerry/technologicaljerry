@@ -8,7 +8,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
-<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
 
