@@ -3,12 +3,14 @@
 <img align="left" alt="GIF" src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif">
 
 <div align="center">
-<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="40%" alt="Rajat Verma's Dev Card"/></a>
-</div>
-
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 
 <img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=technologicaljerry&theme=dark&border_radius=10)](https://git.io/streak-stats"/>
+
+<a href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="40%" alt="Rajat Verma's Dev Card"/></a>
+</div>
+
+
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats"/>
 
