@@ -37,7 +37,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img align="left" width="47%" src="https://github-profile-trophy.vercel.app/?username=technologicaljerry&theme=nord&no-frame=false&no-bg=false&margin-w=4"/>
+<img align="left" width="25%" src="https://github-profile-trophy.vercel.app/?username=technologicaljerry&theme=nord&no-frame=false&no-bg=false&margin-w=4"/>
 
 <a align="right" href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="47%" alt="Rajat Verma's Dev Card"/></a>
 
