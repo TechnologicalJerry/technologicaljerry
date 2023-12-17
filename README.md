@@ -4,8 +4,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=technologicaljerry&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=technologicaljerry&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tech Stack:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -37,7 +37,7 @@
 
 ## 🏆 GitHub Trophies
 
-<img align="left" width="60%" src="https://github-profile-trophy.vercel.app/?username=technologicaljerry&theme=nord&no-frame=false&no-bg=false&margin-w=4"/>
+<img align="left" width="65%" src="https://github-profile-trophy.vercel.app/?username=technologicaljerry&theme=nord&no-frame=false&no-bg=false&margin-w=4"/>
 
 <a align="right" href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="25%" alt="Rajat Verma's Dev Card"/></a>
 
