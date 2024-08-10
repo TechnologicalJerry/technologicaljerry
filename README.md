@@ -40,6 +40,7 @@
 <img align="left" width="65%" src="https://github-profile-trophy.vercel.app/?username=technologicaljerry&theme=nord&no-frame=false&no-bg=false&margin-w=4"/>
 
 <a align="right" href="https://app.daily.dev/technojerry"><img src="https://api.daily.dev/devcards/a4d40ba4a30f4e9dbb34b417de0da38b.png?r=qc9" width="25%" alt="Rajat Verma's Dev Card"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65196f2439da8117e2eed5e2?variant=dark" alt="roadmap.sh"/></a>
 
 [![](https://visitcount.itsvg.in/api?id=technologicaljerry&icon=0&color=0)](https://visitcount.itsvg.in)
 
